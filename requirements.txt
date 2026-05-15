@@ -1,1 +1,4 @@
-
+flask
+yt-dlp
+flask-cores
+gunicorn
